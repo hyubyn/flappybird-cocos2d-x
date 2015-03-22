@@ -1,0 +1,1 @@
+clone game flappy bird with cocos2d-x
